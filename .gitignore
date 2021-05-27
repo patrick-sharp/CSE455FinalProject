@@ -3,5 +3,5 @@ data/*
 *.tar.gz
 *.tar
 env/*
-*.wav
-*.png
+UrbanSound8K/*
+.DS_Store
