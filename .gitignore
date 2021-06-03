@@ -4,4 +4,6 @@ data/*
 *.tar
 env/*
 UrbanSound8K/*
+CommonVoice/*
 .DS_Store
+cv-corpus-6.1-2020-12-11/*
